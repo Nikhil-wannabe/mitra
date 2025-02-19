@@ -80,7 +80,7 @@ Mitra is an AI-powered Linux-based operating system designed to optimize resourc
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/mitra.git
+git clone https://github.com/Nikhil-wannabe/mitra.git
 cd mitra
 
 # Run installation script
