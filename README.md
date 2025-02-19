@@ -28,7 +28,6 @@ Mitra is an AI-powered Linux-based operating system designed to optimize resourc
 - **Voice-Controlled Navigation** – Hands-free control over system operations.
 
 ### 🔒 Security & Privacy
-- **Federated Learning** – Local AI processing to preserve user privacy.
 - **Sandboxed AI Models** – Ensures security by restricting AI access.
 - **Real-Time Threat Detection** – AI-powered security monitoring to prevent cyber threats.
 
